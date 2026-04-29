@@ -11,7 +11,7 @@
  *   al hacerlo se desmonta el efecto anterior (se cancela `requestAnimationFrame`
  *   y se quitan los listeners de teclado) y arranca uno nuevo.
  *
- * Documentación extendida: `docs/wiki/README.md`
+ * Documentación: `README.md` (raíz del repo); wiki por temas: `docs/wiki/README.md`.
  */
 
 import { useEffect, useRef, useState } from "react";

@@ -2,6 +2,8 @@
 
 Mini wiki del proyecto: cómo se juega, qué modos hay y cómo está montado el código.
 
+La guía **completa** (objetivo, controles, modos, constantes, arquitectura, comandos) está en el **[README del repositorio](../../README.md)**.
+
 ## Contenido
 
 | Página | Descripción |
